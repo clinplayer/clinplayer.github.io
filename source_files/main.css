@@ -157,12 +157,17 @@ div.talk_title {
 }
 
 a:link {
-    color: #03666D6;
+    color: #0066ff;
 	text-decoration: none;
 }
 
 a:visited {
-    color: #771caa
+    color: #0066ff;
+}
+
+a:hover {
+  color: #4c81c9;
+  text-decoration: underline;
 }
 
 /* a.author:link { */

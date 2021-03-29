@@ -13,8 +13,8 @@ body {
     margin: auto;
     padding: 0;
     background-color: #f0f8ff;
-	font-family:Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-    font-size:18.0px;
+	font-family: Helvetica;
+    font-size:16.0px;
 }
 
 a img {
@@ -22,11 +22,9 @@ a img {
 }
 
 hr {
-	
 	border: none;
-	border: 2px solid #ddd;
+	border-top: 1.0px solid #ddd;
 	margin: 5px 0;
-
 	
 }
 
@@ -132,17 +130,17 @@ div.bottom_block {
 }
 
 div.paper_title {
-    font-weight: bold;
-    font-size:18px;
+    font-weight: 500;
+    font-size:17px;
     padding-bottom: 5px;
 }
 
 a.author {
-    font-size:15px;
+    font-size:14px;
 }
 
 div.paper_venue {
-    font-size:15px;
+    font-size:14px;
 }
 
 div.paper_materials{

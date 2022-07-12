@@ -25,9 +25,15 @@ hr {
 	border: none;
 	border-top: 1.0px solid #ddd;
 	margin: 5px 0;
-	
 }
 
+p {
+	margin: 0.4em 0em
+  }
+
+p.news{
+	color:#BA2F39
+}
 
 div.content {
     padding-left: 50px;

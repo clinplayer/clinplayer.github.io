@@ -9,6 +9,11 @@ header {
     clear: both;
 }
 
+p.bio{
+	text-align:justify;
+	text-justify:inter-ideograph;
+}
+
 body {
     margin: auto;
     padding: 0;

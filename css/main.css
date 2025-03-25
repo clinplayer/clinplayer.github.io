@@ -136,6 +136,10 @@ a.author {
     font-size:14px;
 }
 
+div.author{
+	font-size:14px;
+}
+
 div.paper_venue {
     font-size:14px;
 }
